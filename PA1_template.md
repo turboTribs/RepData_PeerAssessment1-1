@@ -1,4 +1,5 @@
 # Reproducable Research Week 2 Project
+# tribs 
 
 
 
@@ -174,3 +175,5 @@
 	## could also use
 	## xyplot(steps ~ interval | weekDay, groups = c(interval), newAct, type = "l", layout = c(1,2), xlab = "Interval", ylab = "Number of Steps", main = "Steps Distribution")
 ```
+
+### >>> End <<<
